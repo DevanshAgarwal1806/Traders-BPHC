@@ -1,0 +1,42 @@
+.line2{
+    margin: auto;
+    height:3px;
+    width:80vw;
+    background-color:grey;
+}
+.socialmedia{
+    margin:50px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:20px;
+}
+.copyright{
+    justify-content:center;
+    align-items:center;
+    margin-bottom:50px;
+}
+.maincontent{
+    margin:100px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:50px;
+}
+.card{
+    border-radius:30px;
+    margin:20px;
+    width:300px;
+    height:400px;
+    background-color:#2a2929;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+}
+@media screen and (max-width: 700px){
+    footer{
+        font-size:8px;
+    }
+}

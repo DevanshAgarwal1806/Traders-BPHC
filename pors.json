@@ -1,0 +1,39 @@
+{
+    "pors":[
+        {
+            "image":"asset/pors/pranav.png",
+            "name":"Pranav Tulshyan",
+            "position":"President"
+        },
+        {
+            "image":"asset/pors/siddarth.png",
+            "name":"Siddarth Sangai",
+            "position":"President"
+        },
+        {
+            "image":"asset/pors/prayag.png",
+            "name":"Prayag Rath",
+            "position":"President"
+        },
+        {
+            "image":"asset/pors/umang.png",
+            "name":"Umang Khambathi",
+            "position":"President"
+        },
+        {
+            "image":"asset/pors/ayush.png",
+            "name":"Ayush Karpe",
+            "position":"President"
+        },
+        {
+            "image":"asset/pors/tanuj.png",
+            "name":"Tanuj Gupta",
+            "position":"President"
+        },
+        {
+            "image":"asset/pors/upasna.png",
+            "name":"Upasna Agarwal",
+            "position":"President"
+        }
+    ]
+}
